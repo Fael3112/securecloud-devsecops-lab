@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS / misc
+.DS_Store
+
+# Docker
+*.log
+
+# Env files (secrets)
+.env
